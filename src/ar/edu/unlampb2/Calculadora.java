@@ -19,10 +19,10 @@ public class Calculadora {
 		switch(opcion){
 			case 1:
 			
-			System.out.println("Ingrese el valor ");
+			System.out.println("Ingrese el numero");
 		    a = teclado.nextDouble();
 
-		    System.out.println("Ingrese el valor ");
+		    System.out.println("Ingrese el numero ");
 		    b = teclado.nextDouble();
 			
 			System.out.println("El resultado de la multiplicacion es :"+(resultado=a+b));
